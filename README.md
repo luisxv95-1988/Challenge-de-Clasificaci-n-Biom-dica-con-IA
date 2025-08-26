@@ -11,4 +11,6 @@ Se adjunta el archivo con los datos de entrenamiento y pruebas entregado 'challe
 
 # Archivo Pruebas.
 
-Este es el archivo que se carga en el paso 7. Cargue de Archivo Prueba. En el repositorio se adjunta el archivo 'Data_Pruebas.csv'
+1. Este es el archivo que se carga en el paso 7. Cargue de Archivo Prueba. En el repositorio se adjunta el archivo 'Data_Pruebas_sin_group.csv'
+
+2. Si se quiere hacer las pruebas con datos etiquetados para evaluar estadisticas del modelo se puede recargar el archivo 'challenge_data-18-ago.csv'.
