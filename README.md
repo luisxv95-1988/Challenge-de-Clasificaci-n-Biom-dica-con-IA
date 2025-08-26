@@ -1,4 +1,4 @@
-# Challenge-de-Clasificacion-Biomedica-con-IA
+# Challenge-de-Clasificación-Biomédica-con-IA
 Challenge de Clasificación Biomédica con IA - 2025
 
 # Este Archivo fue creado en Google Colab
