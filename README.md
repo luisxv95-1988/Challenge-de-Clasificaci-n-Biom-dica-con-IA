@@ -28,4 +28,4 @@ Para el archivo de prubas lo debes tener disponible en tu computador para adjunt
 ## 5. Evaluamos los Modelos Preentrenados.
 ## 6. Evaluación de Métricas
 ## 7. Cargue de Archivo Prueba
-## Resumen:
+## Resumen.
